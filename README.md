@@ -63,3 +63,10 @@ The model outperformed Detectrons as the mAP was about 99.5% and it visible in t
 ##### Detectron2: 
 The size was around 264 MB. However, it doesn't show promisng results as YOLO as it has mAP of 65% and the execution time reached areound ~20 minutes.
 
+
+
+
+##### Kindly find the link to [Detectron2 model Colab notebook] and to [Yolo model Colab notebook] attached to this report
+
+[Detectron2 model Colab notebook]: https://colab.research.google.com/drive/1xgDMn89tVSW5zxNB6zBWHUEapZxJsm4q?usp=sharing
+[Yolo model Colab notebook]: https://colab.research.google.com/drive/1BFeFKfKfw_yopuUhNPjJGqakno18dj_y?usp=sharing
