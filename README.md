@@ -41,7 +41,7 @@ For this step we extracted the dataset into implemented it to Detectron2 model a
 ---
 ### YOLO.v8:
 
-Then I takw the same database adn pluge it into YOLOv*, a fast library that processes images, where we trained 25 Epochos:
+Then I take the same database adn pluge it into YOLOv*, a fast library that processes images, where we trained 25 Epochos:
 
 ![My Image](images/yolo.png)
 
@@ -56,16 +56,16 @@ Both models perform good. However, we can see there is a huge difference between
 ---
 ##### YOLO8: 
 The model outperformed Detectrons as the mAP was about 99.5% and it visible in the following charts,The time it took 2-3 minutes, but the size was way larger where it was 640 MB.
-![My Image](images/graphs.png)
-![My Image](images/CM.png)
 
 ---
 ##### Detectron2: 
 The size was around 264 MB. However, it doesn't show promisng results as YOLO as it has mAP of 65% and the execution time reached areound ~20 minutes.
 
+---
+![My Image](images/graphs.png)
+![My Image](images/CM.png)
 
-
-
+---
 ##### Kindly find the link to [Detectron2 model Colab notebook] and to [Yolo model Colab notebook] attached to this report
 
 [Detectron2 model Colab notebook]: https://colab.research.google.com/drive/1xgDMn89tVSW5zxNB6zBWHUEapZxJsm4q?usp=sharing
