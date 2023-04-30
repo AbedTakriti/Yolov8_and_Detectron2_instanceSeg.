@@ -12,7 +12,7 @@ Roboflow is a powerful online tool that faciliate the segementaion process into 
 ---
 ### Languages and Tools:
 
-<img src="https://www.python.org/static/community_logos/python-powered-h-140x182.png"> <img src="https://raw.githubusercontent.com/ultralytics/assets/main/partners/logo-roboflow.png" width="200" height="200"> <img src="https://ultralytics.com/static/brand/yolo-r1-3.svg" width="150" height="150"> <img src="https://dl.fbaipublicfiles.com/detectron2/Detectron2-Logo-Horz.png" width="350">
+<img src="https://www.python.org/static/community_logos/python-powered-h-140x182.png"> <img src="https://raw.githubusercontent.com/ultralytics/assets/main/partners/logo-roboflow.png" width="200" height="200"> <img src="https://ultralytics.com/static/brand/yolo-r1-3.svg" width="150" height="150"> <img src="https://dl.fbaipublicfiles.com/detectron2/Detectron2-Logo-Horz.png" width="375">
 
 ---
 ### Collecting raw dataset:
