@@ -20,11 +20,11 @@ Roboflow is a powerful online tool that faciliate the segementaion process into 
 
 As a preliminary step, we took photos of 5 different obejct : , , Ticket, Glass, and Bolt 
 
-##### Ticket: ![My Image](images/IMG_0001.jpg)
-##### Glass: ![My Image](images/IMG_0022.jpg)
-##### Battery: ![My Image](images/IMG_0041.jpg)
-##### Pen: ![My Image](images/IMG_0069.jpg)
-##### Bolt: ![My Image](images/IMG_9974.jpg)
+#### Ticket: ![My Image](images/IMG_0001.jpg)
+#### Glass: ![My Image](images/IMG_0022.jpg)
+#### Battery: ![My Image](images/IMG_0041.jpg)
+#### Pen: ![My Image](images/IMG_0069.jpg)
+#### Bolt: ![My Image](images/IMG_9974.jpg)
 
 ---
 ### Segemntaion:
